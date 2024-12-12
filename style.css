@@ -1,0 +1,16 @@
+body {
+    background-image: url("BC.avif");  /* Use your desired image URL */
+    background-size: cover;  /* Ensures the image covers the entire background */
+    background-position: center;  /* Center the image */
+    background-attachment: fixed;  /* Keeps the background fixed during scrolling */
+    height: 100vh;  /* Ensures the body takes up the full viewport height */
+    margin: 0;  /* Removes any default margin */
+}
+
+h1 {
+    color: white;  /* Change title color for better visibility */
+}
+
+.number_input {
+    background-color: rgba(255, 255, 255, 0.8);  /* Slightly transparent background for inputs */
+}
